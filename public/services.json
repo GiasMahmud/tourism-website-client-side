@@ -1,0 +1,38 @@
+[
+    {
+        "name": " 4 Days Bali Saver",
+        "description": "INCLUDED: Hotel, Breakfast, Tours, Airport transfers",
+        "img": "https://dragonholidaysbd.com/wp-content/uploads/2019/03/03-Indonesia-Bali-Vacations-1000x450.jpg",
+        "price": "10000"
+    },
+    {
+        "name": "5 Days Bangkok & Pattaya",
+        "description": "Included: Air ticket, Hotel, Breakfast, Tours, Airport transfers",
+        "img": "https://dragonholidaysbd.com/wp-content/uploads/2018/05/50.Chon-Buri-Pattaya-City-0467PN-1-1000x450.jpg",
+        "price": "10000"
+    },
+    {
+        "name": " 4 Days Hanoi & Halong Bay",
+        "description": "INCLUDED: Hotel, Breakfast, Tours, Airport transfers",
+        "img": "https://media.istockphoto.com/photos/costa-rican-hillside-picture-id175502498?s=612x612",
+        "price": "10000"
+    },
+    {
+        "name": "5 Days Manila, Cebu, Bohol",
+        "description": "Included: Hotels, Buffet breakfast, Airport transfers, City tours Days Bali Saver",
+        "img": "https://images.unsplash.com/photo-1541300613939-71366b37c92e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=905&q=80",
+        "price": "10000"
+    },
+    {
+        "name": "4 Days Taj Mahal",
+        "description": " INCLUDED: Hotel, Breakfast, Tours, Airport transfers",
+        "img": "https://i.ytimg.com/vi/49HTIoCccDY/maxresdefault.jpg",
+        "price": "10000"
+    },
+    {
+        "name": "5 Days Coxs Bazar",
+        "description": "INCLUDED: Hotel, Breakfast, Tours, Airport transfers",
+        "img": "https://www.daily-bangladesh.com/media/imgAll/2020June/en/Coxs-bazar-2009131205.jpg",
+        "price": "10000"
+    }
+]
